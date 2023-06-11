@@ -1,7 +1,7 @@
-👋 Hi, I’m Ondřej and I am a Software Engineer at [Deepnote](https://github.com/deepnote)
+👋 Hi, I’m Ondřej and I am a Software Engineer at [Deepnote](https://github.com/deepnote) working on AI
 
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science
-- 🌱 I’m currently learning GraphQL
+- 👀 I’m interested in Machine Learning, Data Science and Spatial computing
+- 🌱 I’m currently learning about Transformers and LangChain 
 
 <!---
 ondrejromancov/ondrejromancov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
